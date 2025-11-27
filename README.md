@@ -11,6 +11,4 @@ I am a Junior Front-End Developer with experience creating user-friendly website
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rhmti01&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rhmti01&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhmti01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=rhmti01&theme=react&hide_border=true)
